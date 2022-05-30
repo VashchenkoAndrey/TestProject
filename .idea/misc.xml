@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AndreyVashchenko/Documents/Fork/OSM/app/src/main/res/drawable/ic_marker_loading.xml" value="0.1" />
+        <entry key="..\:/Users/AndreyVashchenko/Documents/Fork/OSM/app/src/main/res/drawable/ic_marker_unloading.xml" value="0.1" />
+        <entry key="..\:/Users/AndreyVashchenko/Documents/Fork/OSM/app/src/main/res/layout/activity_coordinator.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/AndreyVashchenko/Documents/Fork/OSM/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/AndreyVashchenko/Documents/Fork/OSM/app/src/main/res/layout/view_marker.xml" value="0.37083333333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
